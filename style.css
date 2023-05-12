@@ -1,0 +1,17 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	background:linear-gradient(to right,#00AAFF,#00ff6c);
+	color: #fff;
+}
+
+#show th, #show td{
+	padding: 33px;
+}
+
+#btna td input{
+	width: 100%;
+}
+body{
+	background-color: grey;
+}
